@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 51b5281811f8fbb4699a219adb5194e6
+timeCreated: 1454255692
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottom
+    100002: //RootNode
+    100004: directionalLight1
+    100006: group1
+    100008: group2
+    100010: group3
+    100012: group4
+    100014: group5
+    100016: group6
+    100018: group7
+    100020: group8
+    100022: left
+    100024: pCylinder1
+    100026: pCylinder2
+    100028: pCylinder3
+    100030: pCylinder4
+    100032: pCylinder5
+    100034: pCylinder6
+    100036: pCylinder7
+    100038: pCylinder8
+    100040: pCylinder9
+    100042: pPipe1
+    100044: pPipe2
+    100046: pPipe3
+    100048: pPipe4
+    100050: pSphere1
+    100052: pSphere2
+    100054: pSphere3
+    100056: pSphere4
+    400000: bottom
+    400002: //RootNode
+    400004: directionalLight1
+    400006: group1
+    400008: group2
+    400010: group3
+    400012: group4
+    400014: group5
+    400016: group6
+    400018: group7
+    400020: group8
+    400022: left
+    400024: pCylinder1
+    400026: pCylinder2
+    400028: pCylinder3
+    400030: pCylinder4
+    400032: pCylinder5
+    400034: pCylinder6
+    400036: pCylinder7
+    400038: pCylinder8
+    400040: pCylinder9
+    400042: pPipe1
+    400044: pPipe2
+    400046: pPipe3
+    400048: pPipe4
+    400050: pSphere1
+    400052: pSphere2
+    400054: pSphere3
+    400056: pSphere4
+    2300000: pCylinder1
+    2300002: pCylinder2
+    2300004: pCylinder3
+    2300006: pCylinder4
+    2300008: pCylinder5
+    2300010: pCylinder6
+    2300012: pCylinder7
+    2300014: pCylinder8
+    2300016: pCylinder9
+    2300018: pPipe1
+    2300020: pPipe2
+    2300022: pPipe3
+    2300024: pPipe4
+    2300026: pSphere1
+    2300028: pSphere2
+    2300030: pSphere3
+    2300032: pSphere4
+    3300000: pCylinder1
+    3300002: pCylinder2
+    3300004: pCylinder3
+    3300006: pCylinder4
+    3300008: pCylinder5
+    3300010: pCylinder6
+    3300012: pCylinder7
+    3300014: pCylinder8
+    3300016: pCylinder9
+    3300018: pPipe1
+    3300020: pPipe2
+    3300022: pPipe3
+    3300024: pPipe4
+    3300026: pSphere1
+    3300028: pSphere2
+    3300030: pSphere3
+    3300032: pSphere4
+    4300000: pCylinder6
+    4300002: pSphere1
+    4300004: pSphere3
+    4300006: pCylinder4
+    4300008: pCylinder8
+    4300010: pPipe1
+    4300012: pPipe3
+    4300014: pCylinder3
+    4300016: pCylinder7
+    4300018: pCylinder1
+    4300020: pCylinder5
+    4300022: pPipe4
+    4300024: pPipe2
+    4300026: pSphere2
+    4300028: pSphere4
+    4300030: pCylinder9
+    4300032: pCylinder2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: group6
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pPipe4
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: chava(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: bottom
+      position: {x: 0, y: -1.0009999, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: directionalLight1
+      position: {x: -0.021750616, y: 0.043292064, z: 0.090405405}
+      rotation: {x: 0.7071068, y: -0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere1
+      position: {x: -0.00007742949, y: 0.06690376, z: -0.041629314}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.5952982, y: 0.82934624, z: 0.44432324}
+      transformModified: 1
+    - name: pSphere3
+      position: {x: 0.00018161983, y: 0.06690376, z: -0.041629314}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -0.5952982, y: 0.82934624, z: 0.44432324}
+      transformModified: 1
+    - name: group2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder4
+      position: {x: 0.00032097157, y: 0.039836805, z: -0.04043688}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9423202, z: 0.7611111}
+      transformModified: 1
+    - name: pCylinder8
+      position: {x: 0.00032097157, y: 0.039836805, z: -0.04043688}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 0.9423202, z: 0.7611111}
+      transformModified: 1
+    - name: group3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPipe1
+      position: {x: 0.0002506284, y: 0.03593846, z: -0.040364314}
+      rotation: {x: -0.70702356, y: 0, z: -0, w: 0.7071901}
+      scale: {x: 0.26041356, y: 0.16861145, z: 0.12094772}
+      transformModified: 1
+    - name: pPipe3
+      position: {x: 0.0002506284, y: 0.03593846, z: -0.04034135}
+      rotation: {x: -0.70702356, y: 0, z: -0, w: 0.7071901}
+      scale: {x: -0.26041356, y: 0.16861145, z: 0.12094772}
+      transformModified: 1
+    - name: group4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder3
+      position: {x: 0.0002481731, y: 0.040132303, z: -0.040354524}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0136386, y: 0.9551722, z: 0.7714915}
+      transformModified: 1
+    - name: pCylinder7
+      position: {x: 0.0002481731, y: 0.040132303, z: -0.040354524}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1.0136386, y: 0.9551722, z: 0.7714915}
+      transformModified: 1
+    - name: group5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder1
+      position: {x: 0.0001633708, y: 0.039020117, z: -0.040695705}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0575787, y: 0.99657774, z: 0.8049348}
+      transformModified: 1
+    - name: pCylinder5
+      position: {x: 0.0001633708, y: 0.039020117, z: -0.040695705}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1.0575787, y: 0.99657774, z: 0.8049348}
+      transformModified: 1
+    - name: group6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPipe2
+      position: {x: -0.0008422054, y: 0.0677748, z: -0.0419363}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPipe4
+      position: {x: 0.0007827665, y: 0.0677748, z: -0.0419363}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: group7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere2
+      position: {x: 0.00006336279, y: 0.06685509, z: -0.040477242}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.4944288, y: 0.688819, z: 0.40250844}
+      transformModified: 1
+    - name: pSphere4
+      position: {x: 0.00006336279, y: 0.06685509, z: -0.040477242}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -0.4944288, y: 0.688819, z: 0.40250844}
+      transformModified: 1
+    - name: group8
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder2
+      position: {x: 0.005684167, y: 0.06284894, z: -0.03976744}
+      rotation: {x: -0.10858289, y: -0.12408245, z: 0.7097455, w: 0.6848902}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder9
+      position: {x: -0.0052549266, y: 0.06284894, z: -0.03976744}
+      rotation: {x: 0.088921905, y: 0.08105892, z: 0.7159362, w: 0.6877192}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: left
+      position: {x: 1.0009999, y: -0.032271955, z: 0.002530457}
+      rotation: {x: 0, y: -1.110223e-16, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder6
+      position: {x: 0.005684167, y: 0.06284894, z: -0.03976744}
+      rotation: {x: -0.10858289, y: -0.12408245, z: 0.7097455, w: 0.6848902}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

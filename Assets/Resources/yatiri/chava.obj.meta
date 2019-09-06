@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 7f9842945e37b1c409e07bbd7a19420d
+timeCreated: 1454256021
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group1_pSphere3
+    100004: group2_pCylinder8
+    100006: group3_pPipe3
+    100008: group4_pCylinder7
+    100010: group5_pCylinder5
+    100012: group6_pPipe2
+    100014: group7_pSphere4
+    100016: group8_pCylinder2
+    100018: pCylinder1_group5
+    100020: pCylinder3_group4
+    100022: pCylinder4_group2
+    100024: pCylinder6
+    100026: pCylinder9_group8
+    100028: pPipe1_group3
+    100030: pPipe4_group6
+    100032: pSphere1_group1
+    100034: pSphere2_group7
+    400000: //RootNode
+    400002: group1_pSphere3
+    400004: group2_pCylinder8
+    400006: group3_pPipe3
+    400008: group4_pCylinder7
+    400010: group5_pCylinder5
+    400012: group6_pPipe2
+    400014: group7_pSphere4
+    400016: group8_pCylinder2
+    400018: pCylinder1_group5
+    400020: pCylinder3_group4
+    400022: pCylinder4_group2
+    400024: pCylinder6
+    400026: pCylinder9_group8
+    400028: pPipe1_group3
+    400030: pPipe4_group6
+    400032: pSphere1_group1
+    400034: pSphere2_group7
+    2300000: group1_pSphere3
+    2300002: group2_pCylinder8
+    2300004: group3_pPipe3
+    2300006: group4_pCylinder7
+    2300008: group5_pCylinder5
+    2300010: group6_pPipe2
+    2300012: group7_pSphere4
+    2300014: group8_pCylinder2
+    2300016: pCylinder1_group5
+    2300018: pCylinder3_group4
+    2300020: pCylinder4_group2
+    2300022: pCylinder6
+    2300024: pCylinder9_group8
+    2300026: pPipe1_group3
+    2300028: pPipe4_group6
+    2300030: pSphere1_group1
+    2300032: pSphere2_group7
+    3300000: group1_pSphere3
+    3300002: group2_pCylinder8
+    3300004: group3_pPipe3
+    3300006: group4_pCylinder7
+    3300008: group5_pCylinder5
+    3300010: group6_pPipe2
+    3300012: group7_pSphere4
+    3300014: group8_pCylinder2
+    3300016: pCylinder1_group5
+    3300018: pCylinder3_group4
+    3300020: pCylinder4_group2
+    3300022: pCylinder6
+    3300024: pCylinder9_group8
+    3300026: pPipe1_group3
+    3300028: pPipe4_group6
+    3300030: pSphere1_group1
+    3300032: pSphere2_group7
+    4300000: group1_pSphere3
+    4300002: group2_pCylinder8
+    4300004: group3_pPipe3
+    4300006: group4_pCylinder7
+    4300008: group5_pCylinder5
+    4300010: group6_pPipe2
+    4300012: group7_pSphere4
+    4300014: group8_pCylinder2
+    4300016: pCylinder1_group5
+    4300018: pCylinder3_group4
+    4300020: pCylinder4_group2
+    4300022: pCylinder6
+    4300024: pCylinder9_group8
+    4300026: pPipe1_group3
+    4300028: pPipe4_group6
+    4300030: pSphere1_group1
+    4300032: pSphere2_group7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''chava'' conversion failed: Required human bone ''Hips'' not
+      found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton:
+    - name: chava(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group1_pSphere3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group2_pCylinder8
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group3_pPipe3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group4_pCylinder7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group5_pCylinder5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group6_pPipe2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group7_pSphere4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group8_pCylinder2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder1_group5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder3_group4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder4_group2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCylinder9_group8
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPipe1_group3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pPipe4_group6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere1_group1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere2_group7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
