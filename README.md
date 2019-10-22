@@ -10,7 +10,7 @@
   MYO</a>
  Game made for the 2016 GGJ
 
-![]<img src="https://i.imgur.com/BATdqJz.png">
+<img src="https://i.imgur.com/BATdqJz.png">
 
 ## Participation
 
